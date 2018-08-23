@@ -18,6 +18,14 @@ One also needs to add `naoqi` a third party python package for using `qi` driver
 
 If having a trouble while adding the python package on mac follow this [repo](https://github.com/maverickjoy/pepper-nao_python_installation_mac).
 
+## Usage
+
+```python
+workon <virtual_env_name>
+
+python app.py
+```
+
 ## Notes
 
 It is programmed in such a way that it supports the following features :
