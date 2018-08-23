@@ -1,0 +1,16 @@
+topic: ~tic_tac_toe()
+language: enu
+
+u: (Hi) Hey! Do you want to play a game of tic tac toe
+		u1:([yes yup]) Alright ! Lets have a toss $game_toss_event="True"
+		u1:([no nup]) Nevermind. Let me know if you want to play.
+
+u: ([play "play game" "tic_tac_toe" "game"]) Hi, Do you want to play a game of tic tac toe
+		u1:([yes yup]) Alright ! Lets have a toss $game_toss_event="True"
+		u1:([no nup]) Nevermind. Let me know if you want to play.
+
+u: (Hello) hello
+u: ([Alright Okay Ok Sure yes yup hmm positive]) $affirmative_event="True"
+u: ([no nup negative])  $negative_event="True"
+u: ([reset restart "new game" "play again"]) $play_again_game_event="True"
+u: (Thank you) Welcome
