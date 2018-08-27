@@ -51,7 +51,7 @@ It is programmed in such a way that it supports the following features :
 
 ## License
 
-MIT License 2018 © Vikram Singh and [contributors](https://github.com/maverickjoy/pepper-codes/graphs/contributors)
+MIT License 2018 © Vikram Singh and [contributors](https://github.com/maverickjoy/pepper-tic-tac-toe/graphs/contributors)
 
 [sdk-url]: https://community.ald.softbankrobotics.com/en/resources/software/language/en-gb/robot/pepper-3
 [sdk-image]: https://img.shields.io/badge/Python%202.7%20SDK-2.5.5-008C96.svg?style=flat
